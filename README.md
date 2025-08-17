@@ -19,8 +19,8 @@ Bạn có thể chạy ứng dụng trực tiếp từ mã nguồn mà không c�
     Mở `cmd` hoặc `PowerShell` và chạy lệnh sau để tải dự án về máy của bạn:
 
     ```bash
-    git clone https://github.com/TênTàiKhoảnCủaBạn/TênDựÁn.git
-    cd TênDựÁn
+    git clone https://github.com/LINHTRAN9x/YouTube-Highlight-Maker--Dark-.git
+    cd YouTube-Highlight-Maker--Dark-
     ```
 
 2.  **Chạy ứng dụng**:
@@ -30,7 +30,7 @@ Bạn có thể chạy ứng dụng trực tiếp từ mã nguồn mà không c�
     python ai.py
     ```
 
-    Khi bạn chạy lần đầu, ứng dụng sẽ tự động kiểm tra và cài đặt các thư viện Python cần thiết như `PyQt5`, `yt-dlp`, `numpy`, và `librosa`. Sau khi cài đặt xong, giao diện của ứng dụng sẽ tự động xuất hiện.
+    Khi bạn chạy lần đầu, ứng dụng sẽ tự động kiểm tra và cài đặt các thư viện Python cần thiết. Sau khi cài đặt xong, giao diện của ứng dụng sẽ tự động xuất hiện.
 
 ## Giao diện & Cách sử dụng
 
@@ -46,4 +46,4 @@ Tất cả các file video highlight đã tạo sẽ được lưu trong **Thư 
 
 ## Tác giả
 
-  * [Điền tên của bạn hoặc GitHub handle tại đây]
+  ylinhtran
